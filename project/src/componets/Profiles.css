@@ -1,0 +1,8 @@
+.cont{
+    grid-area: cont;
+    background-color: cornflowerblue;
+  }
+  
+  .cont img{
+    width: 100%;
+  }
